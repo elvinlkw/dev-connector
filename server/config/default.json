@@ -1,6 +1,0 @@
-{
-  "mongoURI" : "mongodb+srv://elikamwa:elikamwa123@devconnector.stzwr.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtsecret" : "mysecrettoken",
-  "githubClientId": "ab156c9a2db271239379",
-  "githubSecret": "38e426181b20c361493826f63115f0c6967d677b"
-}
